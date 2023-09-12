@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is  my first git. Author- Aman kumar
+This is  my first git. <br>Author- Aman kumar
 <!--
 **arv23k/arv23k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
